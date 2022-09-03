@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+
 <h1 align="center">Hi 👋, I'm Jyoti H🌟</h1>
 <h3 align="center">A passionate frontend developer from India 🙋‍♀️💜</h3>
 <img align="right" alt="Coding" height="300" width="300" src="https://t3.ftcdn.net/jpg/04/41/56/18/360_F_441561880_55J60sUrPq9G4L5pI5THrrmDacbiyRon.jpg"
