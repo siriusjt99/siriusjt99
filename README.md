@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Jyoti H🌟</h1>
 <h3 align="center">A passionate frontend developer from India 🙋‍♀️💜</h3>
-<img align="right" alt="Coding" height="200" width="200" src="https://t3.ftcdn.net/jpg/04/41/56/18/360_F_441561880_55J60sUrPq9G4L5pI5THrrmDacbiyRon.jpg"
+<img align="right" alt="Coding" height="100" width="100" src="https://t3.ftcdn.net/jpg/04/41/56/18/360_F_441561880_55J60sUrPq9G4L5pI5THrrmDacbiyRon.jpg"
  
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siriusjt99" alt="siriusjt99" /></a> </p>
