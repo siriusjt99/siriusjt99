@@ -4,7 +4,7 @@
 
  
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=siriusjt99" alt="siriusjt99" /></a> </p>
+
 
 - 🔭 I’m currently working on **Responsive social media website**
 
